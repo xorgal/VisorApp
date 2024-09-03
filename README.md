@@ -18,7 +18,7 @@ This application allows you to run guest operating systems such as macOS and Lin
 
 This app is available for macOS on Apple Silicon, starting from version 14.0.
 
-[![download-on-the-macos-app-store](./resources/macos-app-store.svg)](https://apps.apple.com)
+[![download-on-the-macos-app-store](./resources/macos-app-store.svg)](https://apps.apple.com/us/app/visor-virtual-machine-manager/id6642665426)
 
 ## Virtual Machine Configuration
 
